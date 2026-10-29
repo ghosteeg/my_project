@@ -1,4 +1,4 @@
 def main():
-  print("Hello, World!")
+  print("Привет, мир!")
 
 main()
